@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## GitHub Pages
+
+The site is published at https://jorgefuentes4.github.io/pagina_presentacion/.
+In the repository settings, go to **Settings > Pages** and select **GitHub Actions** as the source under **Build and deployment**. Do not select **Deploy from a branch**, because that publishes this README instead of the static Next.js export.
+
 ## Getting Started
 
 First, run the development server:
